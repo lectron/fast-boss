@@ -1,0 +1,28 @@
+Skeletons
+    Advanced Bows (Each bow has custom armor set and custom drops)
+
+Spider Jockey
+    Skeletons sitting on spiders
+    Speed 1 && 2
+
+Zombie
+    30% chance of food poisoning when they hit you with zombie having <= max health
+    70% chance of food poisoning when you hit it with zombie having <= max health
+    Chance of having a custom stick on spawn with knock up (2-5 blocks)
+    Chance of having wooden sword, chain chestplate and speed I on spawn
+    4% chance of them having diamond chestplate and a diamond sword on spawn
+
+Creeper
+    15% of it being charged and getting speed II
+
+Enderman
+    5% <-> 15% of them stealing something from you and throwing it on the ground
+
+Pigs
+    Drops redstone dust on death as a sign of blood
+
+Pigmen
+    Drop 2.5x exp and drop more gold (1.4x)
+
+Wither Skeleton
+    Increased wither skull drop rate (10% + vanilla)

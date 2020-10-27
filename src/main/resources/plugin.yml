@@ -1,0 +1,7 @@
+name: FastSurvivalBosses
+version: 1.0
+api-version: 1.13
+depend:
+  - Boss
+main: me.sky.boss.Main
+author: Skyvko6607
